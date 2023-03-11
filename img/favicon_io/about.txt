@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Climate Crisis
+- Font Author: Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)
+- Font Source: http://fonts.gstatic.com/s/climatecrisis/v3/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
