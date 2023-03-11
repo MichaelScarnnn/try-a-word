@@ -13,4 +13,4 @@
 
 # For running
 - Cloning the repository the local machine and use your own uniq API key.
-`git clone https://github.com/MichaelScarnnn/TryAWord`
+`git clone https://github.com/MichaelScarnnn/try-a-word`
