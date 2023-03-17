@@ -12,5 +12,5 @@
 - In order to embed it in HTML in a readable way, I define variables and constraints in json() format and object that will bring me the part I want. I also created a function that will make my background color change every time I refresh the page.
 
 # For running
-- Cloning the repository the local machine and use your own uniq API key.
+- Cloning the repository the local machine and use your own uniq API key. <br>
 `git clone https://github.com/MichaelScarnnn/try-a-word`
